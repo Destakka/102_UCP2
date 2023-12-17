@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PAM_UCP2</string>
+    <string name="nama">Nama</string>
+    <string name="sayur">Sayur</string>
+    <string name="buah">Buah</string>
+    <string name="Kembali">Back</string>
+    <string name="Lanjut">Next</string>
+    <string name="buah1">Apel</string>
+    <string name="buah2">Jeruk</string>
+    <string name="buah3">Mangga</string>
+    <string name="sayur1">Pokcoy</string>
+    <string name="sayur2">Kangkung</string>
+    <string name="sayur3">Bayam</string>
+    <string name="btn_submit">Submit</string>
+    <string name="jdl">Formulir Pembelian Sayur n Buah</string>
+</resources>
